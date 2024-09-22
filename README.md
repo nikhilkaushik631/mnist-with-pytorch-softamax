@@ -57,11 +57,4 @@ The model will be trained on the MNIST training dataset. In this section, we wil
 ## Result Analysis
 After training, the model will be evaluated on the test dataset. We will analyze the results by calculating the accuracy of the Softmax classifier on the MNIST digits.
 
-## Estimated Time
-Estimated time to complete this project: **25 minutes**
 
-## Setup Instructions
-
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
